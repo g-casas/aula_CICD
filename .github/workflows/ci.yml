@@ -5,7 +5,7 @@ on:
 
 jobs:
   builds:
-    runs-on: ubutu-latests
+    runs-on: ubutu-latest
 
     steps:
     - name: Clonar o repositório
